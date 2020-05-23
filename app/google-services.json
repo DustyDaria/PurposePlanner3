@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1012106959408",
+    "firebase_url": "https://purpose-planner-3.firebaseio.com",
+    "project_id": "purpose-planner-3",
+    "storage_bucket": "purpose-planner-3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012106959408:android:72ea4e8a49e685baeaebf5",
+        "android_client_info": {
+          "package_name": "com.example.purposeplanner3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012106959408-ssch15d7o2esaersg3eag9a2vmje0bk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNAkiSkxaZCwx_NV8Lr51aSVbdLN9Sgjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012106959408-ssch15d7o2esaersg3eag9a2vmje0bk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
